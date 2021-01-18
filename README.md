@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on 
-  - GwangJu Software HighSchool
+  - Gwangju Software HighSchool
 - 🌱 I’m currently learning 
   - Java, Kotlin, Git, Rx
   - Android, Network, Database
