@@ -7,8 +7,8 @@
 
 
 - 🔭 I’m currently working on 
-  . GwangJu Software HighSchool
+  - GwangJu Software HighSchool
 - 🌱 I’m currently learning 
-  . Java, Kotlin, Git, Rx
-  . Android, Network, Database
-  . MVC, MVP, MVVM
+  - Java, Kotlin, Git, Rx
+  - Android, Network, Database
+  - MVC, MVP, MVVM
