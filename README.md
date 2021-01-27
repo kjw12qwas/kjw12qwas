@@ -11,5 +11,5 @@
   - Gwangju Software HighSchool
 - 🌱 I’m currently learning 
   - Java, Kotlin, Git, Rx
-  - Android, Network, Database
+  - Android, Network, Database, SpringBoot
   - MVC, MVP, MVVM
