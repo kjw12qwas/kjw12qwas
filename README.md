@@ -12,4 +12,4 @@
 - 🌱 I’m currently learning 
   - Java, Kotlin, Git, Rx
   - Android, Network, Database, SpringBoot
-  - MVC, MVP, MVVM
+  - MVC, MVP, MVVM, Docker, Aws
