@@ -12,3 +12,4 @@
   - Java, Kotlin, Git, Rx
   - Android, Network, Database
   - MVC, MVP, MVVM, Docker, Aws
+  - React, TypeScript, NextJs, JavaScript
