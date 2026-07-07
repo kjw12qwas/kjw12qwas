@@ -51,11 +51,6 @@ Android로 입사해 프론트엔드로 전환, 제품군 전반을 만들었습
 
 ---
 
-### 📊 GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kjw12qwas&show_icons=true&hide_border=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjw12qwas&layout=compact&hide_border=true)
-
 ### 📫 Contact
 
 📧 kimjaewon1113@gmail.com
